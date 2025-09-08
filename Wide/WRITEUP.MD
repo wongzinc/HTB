@@ -80,6 +80,7 @@ HTB{som3_str1ng5_4r3_w1d3}
 
 ## Reference From Official Writeup
 ![alt text](image.png)
+
 I also learned that wide string is 32-bit. The flag is hidden using 32-bit encryption method.
 Normal strings method can only find 16-bit string. We can specify the encoding method by -eL where L represents 32-bit littleendian. 
 
