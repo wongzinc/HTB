@@ -43,7 +43,7 @@ STOP! Adventurer, have you got an up to date relic hunting license? If you don't
     }
     sym.imp.free(uStack_10);
     return;
-}
+
 
 [0x0040128a]> s sym.xor
 [0x00401237]> pdg
@@ -76,7 +76,8 @@ pdg
 
 ## Result
 First password is not even hidden. Second password is the reverse of 0wTdr0wss4P. Third one I used cyberchef to help me unescaped and xor character by character at the same time.
-
+Unescape -> turn string into bytes
+escape -> turn bytes into string
 ![alt text](image.png)
 
 ```bash
