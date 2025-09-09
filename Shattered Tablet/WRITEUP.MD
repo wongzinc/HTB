@@ -66,56 +66,55 @@ Tools: ghidra
 
 Use renaming method for each uStack, for example uStack10 = first, uStack20 = second and so on.
 ## 4
-fourth = 3
-fourth11 = p
-fourth21 = 4
-fourth31 = l
-fourth41 = r
-fourth51 = 3
-fourth61 = d
-fourth71 = }
+fourth = 3 <br>
+fourth11 = p <br>
+fourth21 = 4 <br>
+fourth31 = l <br>
+fourth41 = r <br>
+fourth51 = 3 <br>
+fourth61 = d<br>
+fourth71 = }<br>
 
 ## 5
-fifth = _
-fifth11 = t
-fifth21 = 0
-fifth31 = _
-fifth41 = b
-fifth51 = 3
-fifth61 = _
-fifth71 = r
+fifth = _<br>
+fifth11 = t<br>
+fifth21 = 0<br>
+fifth31 = _<br>
+fifth41 = b<br>
+fifth51 = 3<br>
+fifth61 = _<br>
+fifth71 = r<br>
 
-HTB{br0k3n_4p4rt...n3ver_t0_b3_r3p41r3d}
 
 ## 6
-sixth = .
-sixth11 = .
-sixth21 = .
-sixth31 = n
-sixth41 = 3
-sixth51 = v
-sixth61 = e
-sixth71 = r
+sixth = .<br>
+sixth11 = .<br>
+sixth21 = .<br>
+sixth31 = n<br>
+sixth41 = 3<br>
+sixth51 = v<br>
+sixth61 = e<br>
+sixth71 = r<br>
 
 ## 7
-seventh = 3
-seventh11 = n
-seventh21 = _
-seventh31 = 4
-seventh41 = p
-seventh51 = 4
-seventh61 = r
-seventh71 = t
+seventh = 3<br>
+seventh11 = n<br>
+seventh21 = _<br>
+seventh31 = 4<br>
+seventh41 = p<br>
+seventh51 = 4<br>
+seventh61 = r<br>
+seventh71 = t<br>
 
 ## 8
-eighth = H
-eighth11 = T
-eighth21 = B
-eighth31 = {
-eighth41 = b
-eighth51 = r
-eighth61= 0
-eighth71 = k
+eighth = H<br>
+eighth11 = T<br>
+eighth21 = B<br>
+eighth31 = {<br>
+eighth41 = b<br>
+eighth51 = r<br>
+eighth61= 0<br>
+eighth71 = k<br>
 
 it's leet speak1337!!!
 
