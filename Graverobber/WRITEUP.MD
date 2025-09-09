@@ -1,9 +1,9 @@
 # Challenge Name
 
-**Category:** Reverse Engineering
-**Difficulty:** Very Easy
-**Platform:** HTB 
-**Binary:** Graverobber
+**Category:** Reverse Engineering <br>
+**Difficulty:** Very Easy <br>
+**Platform:** HTB <br>
+**Binary:** Graverobber <br>
 
 ## 📝 Challenge Description
 We're breaking into the catacombs to find a rumoured great treasure - I hope there's no vengeful spirits down there...
