@@ -64,11 +64,11 @@ code_r0x00001256:
 }
 ```
 
-## Analysis 
+## 🔧 Analysis 
 It is easy to see that the flag is lie inside the code. Ea3y Peasy!
 It's because the pdg help us deal with lots of problem. 
 
-## Alternative Solution
+## 💡 Alternative Solution
 Use strace to check what is going on in the process of running this binary file.
 
 ```bash
