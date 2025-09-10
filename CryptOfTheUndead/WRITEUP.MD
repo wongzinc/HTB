@@ -20,6 +20,7 @@ I keep getting message "error: that which is undead may not be encrypted" when I
 
 ## 🔧 Analysis 
 ![alt text](image-1.png)
+
 This func forcefully turns our argv into ".undead". Then with strncmp function, It returns 0 which evaluates to false. What I try to do was letting it to return 1 instead of 0 so that i can go inside the if condition. 
 
 mv flag.txt.undead flag.txt.undeada
